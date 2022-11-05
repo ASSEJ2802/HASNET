@@ -1,0 +1,18 @@
+package javafundamentals;
+
+public class Arrays {
+
+public static void main(String[] args) {
+
+    String emails[] = {"mjessacornel28@gmail.com", "mjessacornel28@gmail.com", "mjessacornel28@gmail.com", "mjessacornel28@gmail.com"};
+    String usernames[] = {"maj", "je", "jess", "jessa"};
+    String passwords[] = {"098765432", "234156723", "765439821", "097865234"};
+
+    int i = 0;
+    System.out.printIn("Index: " + 0);
+    System.out.printIn("Email: " + emails[0]);
+    System.out.printIn("Username: " + usernames[0]);
+    System.out.printIn("Password: " + passwords[0]);
+
+} 
+} 
